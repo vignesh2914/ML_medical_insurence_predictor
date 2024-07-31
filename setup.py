@@ -20,7 +20,7 @@ def get_requirements(file_path: str) -> List[str]:
 
 
 setup(
-    name="Scraper-Main",
+    name="ML-insurence-predictor",
     version="0.0.1",
     author="Ponvigneswaran M",
     author_email="vignesh2914@gmail.com",
