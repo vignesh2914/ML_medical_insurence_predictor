@@ -23,5 +23,5 @@ Features
 
 - log 1 image which i optimized and removed some params  and i commented those params  
 
-- ![Insurance Predictor Overview](images/log2.png)
+- ![Insurance Predictor Overview](images/log1.png)
 
