@@ -16,3 +16,12 @@ Features
 - Evaluation: Assessing model performance using metrics like Mean Absolute Error and R-squared.
 
 - ![Insurance Predictor Overview](images/output1.png)
+
+- log 2 image which i used all the params but my accuracy was not that good
+
+- ![Insurance Predictor Overview](images/log2.png)
+
+- log 1 image which i optimized and removed some params  and i commented those params  
+
+- ![Insurance Predictor Overview](images/log2.png)
+
