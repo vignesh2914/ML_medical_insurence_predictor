@@ -2,7 +2,6 @@
 
 # Medical insurance predictor 
 
-<<<<<<< HEAD
 - Deep dive in EDA process check it out 
 - modeltraining and  preprocessor pkl file added
 - with a simple frontend we can test our insurance prediction addtional with the help of api 
@@ -15,4 +14,5 @@ Features
 - Feature Engineering: Creating and selecting features that enhance model performance.
 - Modeling: Implementing regression algorithms, including linear and ridge regression.
 - Evaluation: Assessing model performance using metrics like Mean Absolute Error and R-squared.
+
 - ![Insurance Predictor Overview](images/output1.png)
